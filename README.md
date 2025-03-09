@@ -33,3 +33,4 @@ This is a group project.
 2) you can get your sitename by doing `pwd` and manipulating that. It is also in `.git/config`.
 
 I hope that this is fun!
+<!-- Trigger GitHub Actions workflow -->
